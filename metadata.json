@@ -1,0 +1,9 @@
+{
+  "name": "ScamGuard Global",
+  "description": "A world-class fraud detection tool powered by AI to analyze messages, emails, and offers for scams.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
