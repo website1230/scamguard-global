@@ -1,7 +1,0 @@
-{
-  "name": "SCAMGUARD GLOBAL",
-  "description": "AI-powered scam message and image verification tool. Detect phishing, SMS fraud, and suspicious links globally.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
